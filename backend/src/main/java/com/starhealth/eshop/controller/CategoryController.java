@@ -14,6 +14,7 @@ import com.starhealth.eshop.common.ApiResponse;
 import com.starhealth.eshop.entity.Category;
 import com.starhealth.eshop.service.CategoryService;
 
+@CrossOrigin
 @RestController
 @RequestMapping("/category")
 
